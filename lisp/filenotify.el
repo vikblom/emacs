@@ -1,3 +1,4 @@
+;; HERE
 ;;; filenotify.el --- watch files for changes on disk  -*- lexical-binding:t -*-
 
 ;; Copyright (C) 2013-2025 Free Software Foundation, Inc.

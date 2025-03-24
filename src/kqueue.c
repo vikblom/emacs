@@ -1,4 +1,5 @@
-/* Filesystem notifications support with kqueue API.
+// HERE
+ /* Filesystem notifications support with kqueue API.
 
 Copyright (C) 2015-2025 Free Software Foundation, Inc.
 
